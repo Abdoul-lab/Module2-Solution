@@ -1,1 +1,7 @@
-
+h3 {
+    color: red;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 1px solid black;
+    width: 50px;
+}
