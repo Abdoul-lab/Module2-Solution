@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+h3 {
+    color: red;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 1px solid black;
+    width: 100px;
+    float: ;
+}
+section{
+    background-color: dimgray ;
+    box-sizing: content-box;
+    border: 2Px solid black;
+    margin:25px;
+    padding: 10px;
+}
+.left-col {
+    float: left;
+    width:20%;
+}
+.center-col {
+    float: left;
+    width: 20%;
+}
+.right-col {
+    float: left;
+    width: 20%;
+}
